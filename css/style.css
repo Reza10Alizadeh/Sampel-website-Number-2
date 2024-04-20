@@ -1,8 +1,8 @@
 body {
   background-color: #fff;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family:"Noto Sans Arabic", sans-serif;
 }
+
 
 
 .logo {
@@ -185,7 +185,7 @@ body {
   font-weight: 500;
   margin-bottom: 0.5rem;
 }
-.slider .box .details p {
+.slider .box .details .p {
   display: inline-block;
   font-size: 1.3rem;
   color: #B5B4B4;
@@ -399,4 +399,14 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+}
+.Attributes {
+  color: black;
+  padding: 5rem 2.5rem;
+  font-size: 18px;
+  font-weight: 400;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #00611a;
 }
